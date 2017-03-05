@@ -13,3 +13,12 @@ h1 {
 .heading:hover { 
 	color: pink
  }
+
+ .quote {
+ 	color: white
+ 	font-size= 100px;
+ 	position: bottom;
+ 	border-left: 100px
+ 	border-right: 100px;
+
+ }
