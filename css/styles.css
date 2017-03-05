@@ -5,11 +5,11 @@
 }
 
 
-.btn-warning:hover {
+.btn-success:hover {
 	color: slategrey
 }
 
-.btn-warning {
+.btn-success {
 	position: relative; 
 	top: 70vh;
 }
