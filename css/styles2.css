@@ -1,8 +1,12 @@
 .background-image{
-	background: url();
+	background: url("../img/aboutphoto.jpeg");
+	background-repeat: no-repeat fixed;
+	background-size: cover;
 }
 
 h1 {
 	font-size: 60px;
-	margin-left: 150px;
+	margin-left: 0px;
+	color: white;
 }
+
